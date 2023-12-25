@@ -16,7 +16,7 @@ TS3AudioBot 网易云插件[ZHANGTIANYAO1/TS3AudioBot-NetEaseCloudmusic-plugin](
 	1、普通版，只能语音识别歌名并播放
 	https://www.icloud.com/shortcuts/6894d8282a814ba485ad58f58ce1d38e
 	2、接入 ChatGPT 版  可以把白话翻译为 WebAPI 可以接收的参数（推荐）
-	https://www.icloud.com/shortcuts/a8a531e2909e4f7c90bf4e31a0a598ac
+	https://www.icloud.com/shortcuts/06de61929c884fb89b5ce191650f3c2a
 ![image](https://github.com/jmiaob/TS3AudioBot-siri/assets/115988904/404f0f00-7989-4d03-94dc-538be538aa0e)
 
 ![image](https://github.com/jmiaob/TS3AudioBot-siri/assets/115988904/4bdf7636-748a-41cc-a28f-f35c3ff2e9dd)
